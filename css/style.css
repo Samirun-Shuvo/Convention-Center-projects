@@ -5,6 +5,10 @@ body{
     font-family: 'Roboto', sans-serif;
 
 }
+.carousel-item img{
+    height: 500px;
+    width: 100%;
+}
 .card img{
     height: 40%;
     width: 40%;
