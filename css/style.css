@@ -11,3 +11,19 @@ body{
     margin: auto;
     padding-bottom: 20px;
 }
+
+footer{
+    background-color:rgb(59, 59, 77);
+}
+footer i{
+    font-size: 30px;
+    margin-right: 10px;
+}
+footer h6{
+    font-size: 10px;
+
+} 
+footer h5{
+    font-size: 14px;
+    line-height: 3px;
+} 
